@@ -1,0 +1,72 @@
+
+
+
+
+body {
+	background-color: #298eea;
+} 
+
+.logo {
+	height: 35px;
+	margin-left: 550px;
+	margin-bottom: 30px;
+	margin-top: 40px;
+}
+
+div {
+	width: 400px; 
+	padding-left: 40px
+	padding-right: 40px;
+	position: block;
+	margin: auto;
+	font-size: 20px;
+	background-color: white;
+}
+
+h1 {
+	text-align: center;
+}
+
+input {
+	width: 320px;
+	border: 2px solid lightgray;
+	padding: 15px;
+	height: 20px;
+	margin:30px 0 30px 0;
+}
+
+button {
+	width: 353px;
+	background-color: green;
+	margin: auto;
+	height: 55px; 
+	margin-top: 40px;
+	margin-bottom: 25px;
+	font-size: 16px;
+}
+
+button:hover {
+	background-color: darkgreen;
+}
+
+.forgot{
+	margin-left: 110px;
+	font-size: 16px;
+}
+
+
+.hv-accnt {
+	text-align: center;
+	font-size: 16px; 
+	color: white;
+	margin-top: 40px;
+}
+
+
+
+
+
+
+
+
+
